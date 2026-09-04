@@ -49,8 +49,8 @@ Evolução do site institucional para uma plataforma de gestão da clínica, man
 O arquivo `.env` local aponta para uma instância MySQL de desenvolvimento na porta `3307`, com o banco `pg_estetica` já importado. Não use as credenciais padrão `root` sem senha na porta `3306`, pois elas pertencem ao MySQL do sistema e podem não ter acesso. Em outra máquina, crie um usuário próprio para a aplicação e preencha `DB_HOST`, `DB_PORT`, `DB_DATABASE`, `DB_USERNAME` e `DB_PASSWORD` no `.env`.
 
 ## Acesso administrativo inicial
-- E-mail: `admin@pgestetica.local`
-- Senha: `Admin@123`
+- E-mail: ``
+- Senha: ``
 
 Troque a senha e as credenciais antes da produção.
 
